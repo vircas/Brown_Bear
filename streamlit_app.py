@@ -12,23 +12,23 @@ def generar_datos(distribucion, size):
     elif distribucion == 'Poisson':
         return np.random.poisson(lam=5, size=size)
 
-# Función para añadir fondo de pantalla
-def set_background(png_file):
-    with open(png_file, "rb") as f:
-        data = f.read()
-    bin_str = base64.b64encode(data).decode()
-    page_bg_img = f'''
-    <style>
-    .stApp {{
-    background-image: url("data:image/jpg;base64,{bin_str}");
-    background-size: cover;
-    }}
-    </style>
-    '''
-    st.markdown(page_bg_img, unsafe_allow_html=True)
+# # Función para añadir fondo de pantalla
+# def set_background(png_file):
+#     with open(png_file, "rb") as f:
+#         data = f.read()
+#     bin_str = base64.b64encode(data).decode()
+#     page_bg_img = f'''
+#     <style>
+#     .stApp {{
+#     background-image: url("data:image/jpg;base64,{bin_str}");
+#     background-size: cover;
+#     }}
+#     </style>
+#     '''
+#     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-# Establecer fondo de pantalla
-set_background('tu_imagen_de_fondo.jpg')
+# # Establecer fondo de pantalla
+# set_background('tu_imagen_de_fondo.jpg')
 
 # Inicializar el estado de la sesión si no está definido
 if 'data' not in st.session_state:
