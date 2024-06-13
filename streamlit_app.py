@@ -19,7 +19,7 @@ def set_background(png_file):
     bin_str = base64.b64encode(data).decode()
     page_bg_img = f'''
     <style>
-    body {{
+    .stApp {{
     background-image: url("data:image/jpg;base64,{bin_str}");
     background-size: cover;
     }}
