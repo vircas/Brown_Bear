@@ -1,0 +1,23 @@
+﻿OBJECTID,INSPIREID,COUNTRY,NATLEV,NATLEVNAME,NATCODE,NAMEUNIT,CODNUT1,CODNUT2,CODNUT3,Shape__Area,Shape__Length
+1,ES.IGN.BDDAE.34010000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34010000000,Andalucía,ES6,ES61, ,8.92161245617569,22.429251780455
+2,ES.IGN.BDDAE.34020000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34020000000,Aragón,ES2,ES24, ,5.14809294916394,16.1232426420639
+3,ES.IGN.BDDAE.34030000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34030000000,Principado de Asturias,ES1,ES12, ,1.17627301523277,11.2966950948971
+4,ES.IGN.BDDAE.34040000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34040000000,Illes Balears,ES5,ES53, ,0.52317174145794,15.0960095330672
+5,ES.IGN.BDDAE.34060000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34060000000,Cantabria,ES1,ES13, ,0.590288276380917,8.5124745371641
+6,ES.IGN.BDDAE.34070000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34070000000,Castilla y León,ES4,ES41, ,10.2005819916731,29.1058692569669
+7,ES.IGN.BDDAE.34080000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34080000000,Castilla-La Mancha,ES4,ES42, ,8.33132751696242,24.1012071539047
+8,ES.IGN.BDDAE.34090000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34090000000,Cataluña/Catalunya,ES5,ES51, ,3.47946077154285,18.7096330382164
+9,ES.IGN.BDDAE.34100000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34100000000,Comunitat Valenciana,ES5,ES52, ,2.4330627459506,15.6360457516041
+10,ES.IGN.BDDAE.34110000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34110000000,Extremadura,ES4,ES43, ,4.34104089865345,13.9146089990775
+11,ES.IGN.BDDAE.34120000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34120000000,Galicia,ES1,ES11, ,3.25429661469965,28.6712178870575
+12,ES.IGN.BDDAE.34130000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34130000000,Comunidad de Madrid,ES3,ES30, ,0.853116748281934,7.95815682773504
+13,ES.IGN.BDDAE.34140000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34140000000,Región de Murcia,ES6,ES62, ,1.16079979627786,7.93629071284572
+14,ES.IGN.BDDAE.34150000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34150000000,Comunidad Foral de Navarra,ES2,ES22, ,1.1411783467339,8.46154260738464
+15,ES.IGN.BDDAE.34160000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34160000000,País Vasco/Euskadi,ES2,ES21, ,0.799318042065813,10.1819056223665
+16,ES.IGN.BDDAE.34170000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34170000000,La Rioja,ES2,ES23, ,0.550580306685589,6.10921580109395
+17,ES.IGN.BDDAE.34180000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34180000000,Ciudad Autónoma de Ceuta,ES6,ES63, ,0.0019830533236842,0.424396824247721
+18,ES.IGN.BDDAE.34190000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34190000000,Ciudad Autónoma de Melilla,ES6,ES64, ,0.00134972258022259,0.262902890738812
+19,ES.IGN.BDDAE.34200000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34200000000,Territorios no asociados a ninguna autonomía,0,0, ,7.71507846124564E-05,0.141182442225627
+20,ES.IGN.BDDAE.34200000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34200000000,Territorios no asociados a ninguna autonomía,0,0, ,8.41384164118608E-07,0.00566066427867572
+21,ES.IGN.BDDAE.34200000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Territorio,34200000000,Gibraltar. Territorio no asociado a ninguna autonomía, , , ,0.000637052726276011,0.299030337088566
+22,ES.IGN.BDDAE.34050000000,ES,https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/2ndOrder,Comunidad autónoma,34050000000,Canarias,ES7,ES70, ,0.68520794692958,17.3986456577958
