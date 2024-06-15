@@ -1,3 +1,5 @@
 streamlit
-matplotlib
-numpy
+streamlit_folium
+pandas
+geopandas
+plotly
